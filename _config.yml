@@ -18,7 +18,7 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/czhWellOptimized"
+#  Author's home: "https://github.com/czhWellOptimized"
 
 # --- Logo --- #
 
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/czhWellOptimized"
+#url-pretty: "https://github.com/czhWellOptimized"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
