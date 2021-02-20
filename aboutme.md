@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Hi!
 ---
 
 Someone who wants to be a distributed system engineer. I am interested in :
