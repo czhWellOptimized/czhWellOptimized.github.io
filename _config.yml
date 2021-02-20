@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: czhWellOptimized's Website
 
 # Your name to show in the footer
-author: Some Person
+author: czhWellOptimized
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://github.com/czhWellOptimized"
 
 # --- Logo --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "czhWellOptimized@outlook.com"
+#  facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -70,10 +70,10 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
