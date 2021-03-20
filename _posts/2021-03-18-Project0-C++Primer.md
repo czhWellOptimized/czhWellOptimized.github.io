@@ -1,6 +1,13 @@
+---
+layout: post
+title: Project0-C++Primer
+tags: [database]
+
+---
+
 Project1 C++Primer
 
-如何理解 模板类继承模板类， 子类看不到父类成员？https://www.zhihu.com/question/28139230
+Feature1：如何理解 模板类继承模板类， 子类看不到父类成员？https://www.zhihu.com/question/28139230
 
 Do I need to explicitly call the base virtual destructor? https://stackoverflow.com/questions/677620/do-i-need-to-explicitly-call-the-base-virtual-destructor 
 
@@ -15,3 +22,5 @@ schema：Data model is a high level design which decides what can be present in 
 A data model can, for example, be a relational model where the data will be organised in tables whereas the schema for this model would be the set of attributes and their corresponding domains.
 
 复制黏贴自Stack Overflow
+
+Bug1：我过于高估自己对于智能指针的认知了，我只适合用裸指针。
