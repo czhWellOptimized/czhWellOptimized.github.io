@@ -70,7 +70,7 @@ bug
 
 4.我好像把node的Size（）定义弄错了....还是有很多没想明白的
 
-![111](https://github.com/czhWellOptimized/czhWellOptimized.github.io/tree/master/_posts/image/1.png)
+  <img src="image/1.png"/>  
 
 删除key=3后，出现问题了，
 
