@@ -70,7 +70,9 @@ bug
 
 4.我好像把node的Size（）定义弄错了....还是有很多没想明白的
 
- ![img](/img/1.png) 
+ <figure>
+<a><img src="{{site.url}}/image/1.png"></a>
+</figure>
 
 删除key=3后，出现问题了，
 
