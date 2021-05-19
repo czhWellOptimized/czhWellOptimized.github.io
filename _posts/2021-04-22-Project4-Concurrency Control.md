@@ -1,3 +1,11 @@
+---
+layout: post
+title: Concurrency Control
+tags: [cmu15-445]
+
+
+---
+
 ### Locks,Mutexes,Semaphores的区别
 
 Locks：保护对共享对象的访问，即一个资源可以被多个线程共享。

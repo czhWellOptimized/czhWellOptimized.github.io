@@ -1,3 +1,11 @@
+---
+layout: post
+title: B+ Tree
+tags: [cmu15-445]
+
+
+---
+
 1.Every node has at most m children.
 
 2.Every non-leaf node (except root) has at least ⌈m/2⌉ child nodes.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Project1-BufferPool
-tags: [database]
+title: Buffer Pool
+tags: [cmu15-445]
+
 ---
 
 该Project下有4个主要的数据结构，分别是：
